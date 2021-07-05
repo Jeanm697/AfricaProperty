@@ -1,0 +1,47 @@
+body{
+    background-color: #FFF8D7 !important;
+}
+.Footer{
+    background-color: #AA6A03;
+    height: 8em;
+    color: white;
+}
+.Texte1{
+    color: #AA6A03;
+}
+.Texte2{
+    color: #aa6a03 !important; ;
+}
+.Texte2:hover{
+    color:#6e5121 !important;
+}
+.Texte3{
+    color: #AA6A03;
+    border: solid #AA6A03;
+}
+.Boite1{
+    background-image: url("assets/Terrain\ Afrique\ Sable.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    height: 16em;
+}
+.Texte4{
+    color:#FFF8D7;
+}
+.Boite2{
+    background-image: url("assets/gestionlocativeimmage2.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    height: 18em;
+}
+
+.changeButton{
+    background-color: #AA6A03 !important;
+    color: white !important;
+}
+
+
+.changeButton:hover{
+    background-color: #ca9e58 !important;
+    color: white !important;
+}

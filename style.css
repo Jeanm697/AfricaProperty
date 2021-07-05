@@ -1,0 +1,70 @@
+.Texte1{
+    border: solid #AA6A03;
+    color: #AA6A03;
+    margin-bottom: 1em;
+}
+.Texte2{
+    color:#AA6A03 !important;
+}
+
+.Texte2:hover{
+    color:#6e5121 !important;
+}
+
+/*
+
+*/
+.Boite1{
+    background-image: url("assets/image\ acceuil1.jpg");
+    background-size: cover;
+    margin-bottom: 2em;
+    background-position: top center;
+    height: 20em;
+}
+.Boite2{
+    background-image:url("assets/afrique_du_sud1.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    height: 25em;
+    margin-bottom: 2em;
+    background-position: top center;
+}
+.Texte3{
+    color:#FFF8D7;
+}
+body{
+    background-color: #FFF8D7 !important;
+}
+.Texte4{
+    color:#AA6A03 !important;
+    border: solid #AA6A03;
+}
+.Footer{
+    background-color: #AA6A03;
+    height: 9em;
+    color: white;
+}
+.Boite3{
+    border: solid #AA6A03;
+    padding-bottom: 2em;
+}
+.Boite4{
+    border: solid #AA6A03;
+    padding: 2em;
+}
+.Texte5{
+    color: black;
+}
+.Boite5{
+    border: solid #AA6A03;
+}
+
+.changeButton{
+    background-color: #AA6A03 !important;
+    color: white !important;
+}
+
+.changeButton:hover{
+    background-color: #ca9e58 !important;
+    color: white !important;
+}
